@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balaji Venkateshwaran</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balajivenkateshwaran&label=Profile%20views&color=0e75b6&style=flat" alt="balajivenkateshwaran" /> </p>
-
 - 🔭 I’m currently working on **e-Commerce Website**
 
 - 🌱 I’m currently learning **Full Stack Development**
