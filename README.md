@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Balaji Venkateshwaran</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **e-Commerce Website**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **balajikthangm@gmail.com**
 
