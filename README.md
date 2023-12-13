@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Balaji Venkateshwaran</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+<img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
+
 - 🔭 I’m currently working on **e-Commerce Website**
 
 - 🌱 I’m currently learning **Full Stack Development**
