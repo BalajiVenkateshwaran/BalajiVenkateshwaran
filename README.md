@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji Venkateshwaran</h1>
-<h3 align="center">Full Stack Developer (MERN)</h3>
+<h3 align="center">Software Developer | RPA Developer</h3>
 
 - 🔭 I’m currently working on **e-Commerce Website**
 
