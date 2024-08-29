@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Power App Development And RPA Automation**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, RPA (Power Automate)**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB, RPA (Power Automate)**
 
 - 📫 How to reach me **balajikthangm@gmail.com**
 
