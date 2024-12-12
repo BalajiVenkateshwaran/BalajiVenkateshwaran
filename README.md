@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Balaji Venkateshwaran</h1>
-<h3 align="center">Software Developer | RPA Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **Automation Using Power Automate**
+- 🔭 I’m currently working on **Web Application, Automation Using Microsoft Power Automate**
 
-- 🌱 I’m currently learning **Power App Development And RPA Automation**
+- 🌱 I’m currently learning **Web Development, Power App Development And RPA Automation**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB, RPA (Power Automate)**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB, RPA (MS Power Automate)**
 
 - 📫 How to reach me **balajikthangm@gmail.com**
 
