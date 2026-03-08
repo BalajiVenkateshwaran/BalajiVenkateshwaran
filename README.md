@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on ** Web Application (eCommerce) Using Next.js And TypeScript **
 
-- 🌱 I’m currently learning ** Web Development Using AI And Azure Cloud Services **
+- 🌱 I’m currently learning ** AI Assisted Web Development and Azure Cloud Services **
 
-- 💬 Ask me about ** HTML, CSS, JavaScript, React.js, Next.js, TypeScript, SQL, Prism, UNIX **
+- 💬 Ask me about ** HTML, CSS, JavaScript, React.js, Next.js, TypeScript, SQL, Prisma**
 
 - 📫 How to reach me ** balajikthangam@gmail.com **
 
