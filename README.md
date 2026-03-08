@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Balaji Venkateshwaran</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **Web Application, ETL Related Projects**
+- 🔭 I’m currently working on ** Web Application (eCommerce) Using Next.js And TypeScript **
 
-- 🌱 I’m currently learning **Web Development, ETL - Data Migration & Transformation**
+- 🌱 I’m currently learning ** Web Development Using AI And Azure Cloud Services **
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, MongoDB, RPA (MS Power Automate), Oracle, SQL, Talend Open Studio, UNIX**
+- 💬 Ask me about ** HTML, CSS, JavaScript, React.js, Next.js, TypeScript, SQL, Prism, UNIX **
 
-- 📫 How to reach me **balajikthangam@gmail.com**
+- 📫 How to reach me ** balajikthangam@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
